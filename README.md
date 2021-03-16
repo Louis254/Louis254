@@ -1,6 +1,6 @@
 Bonjour,
 Je m'appelle Louis, j'ai un problème de boucle imbriquée, je dois pouvoir réaliser un flocon (6 pointes) avec des étoiles et je ne comprend pas comment imbriquer les différentes fonctions pour avoir cette forme. (voir la capture d'écran pour mieux voir la forme recherché)
-Merci pour vos retours _/\_
+Merci pour vos retours !
 
 include <stdio.h>
 #include <stdlib.h>
